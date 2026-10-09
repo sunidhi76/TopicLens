@@ -205,10 +205,4 @@ The project uses scikit-learn's `LatentDirichletAllocation`, which uses **variat
 4. Streamlit. *Streamlit Documentation*. https://docs.streamlit.io/
 5. University College Dublin. *BBC News Full Text Dataset*. http://mlg.ucd.ie/files/datasets/bbc-fulltext.zip
 
-## Author
 
-**Project:** TopicLens — LDA-Based Topic Modeling and Topic Interpretation System  
-**Course:** Advance NLP (AML23702)  
-**Lab Exercise:** 4
-
-Add your name and GitHub profile before publishing.

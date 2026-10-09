@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.DS_Store
+outputs/*
+!outputs/.gitkeep
+data/bbc_news.csv
+data/bbc/

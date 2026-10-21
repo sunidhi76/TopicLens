@@ -2,7 +2,7 @@
 
 > **Discover hidden themes across document collections using probabilistic topic modeling.**
 
-## Academic objective
+## Objective
 
 **To apply Latent Dirichlet Allocation on a document collection and interpret the discovered topics using probabilistic and sampling-based methods.**
 
